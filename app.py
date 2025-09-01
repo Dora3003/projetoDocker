@@ -1,0 +1,1 @@
+print("Porque Python??? Muito ruim")
